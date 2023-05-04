@@ -1,0 +1,70 @@
+body {
+background-color: #d4ebf2;
+}
+
+
+
+h1 {
+color: darkred;
+font-family: Chalkduster, fantasy;
+font-weight: bold;
+
+}
+
+h2 {
+color: #348C26;
+font-family: Chalkduster, fantasy;
+font-weight: bold;
+}
+
+h3 {
+font-family: Chalkduster, fantasy;
+font-weight: bold;
+color: #348C26;
+}
+
+p {
+    color: #00003f;
+    font-family: Tahoma, Verdana, sans-serif;
+      line-height: 1.5 ;
+}
+
+.rec {
+ color: #FFA500;
+ font-weight: bold;
+}
+.rec:hover {
+ color: #FF007F;
+}
+
+
+ table, td, th {
+ border: 0px solid;
+}
+
+
+.bigheader {
+ font-size: 50px;
+}
+
+
+
+li {
+  line-height: 1.5 ;
+color: #00003f;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+
+a {
+  color: #48B0D9;
+}
+
+
+
+
+h4 {
+font-family: Papyrus, Verdana, Fantasy;
+font-weight: bold;
+    color: #348C26;
+}
